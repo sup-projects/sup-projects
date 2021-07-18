@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sup-projects supriyagavali
 - 👀 I’m interested in web development and c++ coding.
 - 🌱 I’m currently doing coding in c++ and learning cloud computing as it is a well known and rapidly growing technology.
-- 💞️ I’m looking to collaborate on It field careers as a engineering and developer.
+- 💞️ I’m looking to collaborate in It field careers as a engineer and developer.
 - 📫  reach me supriyagavali123@gmail.com 
 
 <!---
